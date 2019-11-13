@@ -1,0 +1,6 @@
+mssql:
+  ip: 47.107.101.69
+  port: 1433
+  user: sa
+  password: sa@123
+  dbName: test
